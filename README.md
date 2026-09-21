@@ -1,7 +1,5 @@
 # UnderFire — Portable Peatland Smoldering Detection & Telemetry System
 
-## 🚀 Quick Start (Easiest Way for Anyone to Run)
-
 ### Prerequisites:
 - **Node.js** installed on the computer ([Download Node.js LTS](https://nodejs.org/)).
 
